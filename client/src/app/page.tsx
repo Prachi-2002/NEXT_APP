@@ -1,11 +1,8 @@
 import AnimatedHeadline from "@/components/ui/AnimatedHeadline";
 import SlowlyAppearingCard from "@/components/ui/SlowlyAppearingCard";
 import "../styles/HeadlineStyle.css"
-import FloatingCard from "@/components/ui/FloatingCard";
-import ProjectCard from "@/components/ui/ProjectCard";
 import { projects } from "@/constants/constant";
 import PCard from "@/components/ui/PCard";
-import { ContactForm } from "@/components/ui/ContactForm";
 import Header from "@/components/ui/Header";
 
 export default function Home() {
